@@ -13,7 +13,7 @@ The code is written in python and jupyter notebooks and requires the following p
 ## Running the experiments
 
 ### Single-Buyer Settings
-The notebooks in the RochetNet folder has all jupyter notebooks needed to recover the results in the main paper and appendix. The hyperparamters are set already in the cell that defines the config class. To recover the results computing how differential informativeness varies for the enlarged buyer type, go to RochetNet/enlarged_types/Enlarged_types_mix.ipynb and change the values corresponding to cfg.v_L to vary c the and re-run the notebook
+The notebooks in the RochetNet folder has all jupyter notebooks needed to recover the results in the main paper and appendix. The hyperparamters are set already in the cell that defines the config class. To recover the results computing how differential informativeness varies for the enlarged buyer type, go to RochetNet/enlarged_types/Enlarged_types_mix.ipynb and change the values corresponding to cfg.v_L to vary a and re-run the notebook
 
 ### Multi-Buyer Settings
 
