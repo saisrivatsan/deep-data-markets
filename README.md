@@ -1,6 +1,6 @@
 # Data Market Design through Deep Learning
 
-This folder containts the implementation for paper titled Data Market Design through Deep Learning
+This folder containts the implementation of the paper "Data Market Design through Deep Learning"
 
 ## Getting Started
 
