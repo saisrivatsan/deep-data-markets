@@ -1,6 +1,7 @@
 # Data Market Design through Deep Learning
 
-This folder containts the implementation of the paper "Data Market Design through Deep Learning"
+This folder containts the implementation of the paper "Data Market Design through Deep Learning"  
+https://arxiv.org/pdf/2310.20096
 
 ## Getting Started
 
@@ -22,3 +23,16 @@ The notebooks in the BIC folder has all jupyter notebooks needed to recover the 
 
 #### *Ex post* IC settings
 The notebooks in the IC folder has all jupyter notebooks needed to recover the results in the main paper and appendix. The hyperparamters are set already in the cell that defines the config class. 
+
+## Reference
+
+Please cite our work if you find our code/paper is useful to your work.
+```
+@inproceedings{ravindranath2023data,
+  title={Data Market Design through Deep Learning},
+  author={Sai Srivatsa Ravindranath and Yanchen Jiang and David C. Parkes},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023},
+  url={https://openreview.net/forum?id=sgCrNMOuXp}
+}
+```
